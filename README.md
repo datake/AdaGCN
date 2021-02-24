@@ -14,7 +14,7 @@ Please cite our paper if you use the model or this code in your own work:
 @article{sun2019adagcn,
   title={Adagcn: Adaboosting graph convolutional networks into deep models},
   author={Sun, Ke and Lin, Zhouchen and Zhu, Zhanxing},
-  journal={arXiv preprint arXiv:1908.05081},
-  year={2019}
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2021}
 }
 ```
