@@ -11,7 +11,7 @@ Please refer to ajksunke@pku.edu.cn in case you have any questions.
 ## Reference
 Please cite our paper if you use the model or this code in your own work:
 ```
-@article{sun2019adagcn,
+@inproceedings{sun2019adagcn,
   title={Adagcn: Adaboosting graph convolutional networks into deep models},
   author={Sun, Ke and Lin, Zhouchen and Zhu, Zhanxing},
   booktitle={International Conference on Learning Representations (ICLR)},
