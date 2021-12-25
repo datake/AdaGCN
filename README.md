@@ -2,7 +2,7 @@
 
 Please refer to [openreview](https://openreview.net/forum?id=QkRbdiiEjM) (ICLR 2021) to look into the details of our paper.
 
-![Alt text](https://github.com/datake/AdaGCN/blob/master/AdaGCN.png)
+![Alt text](https://github.com/datake/AdaGCN/raw/main/AdaGCN.png)
 
 
 ## Enviromment
