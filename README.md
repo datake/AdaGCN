@@ -1,8 +1,8 @@
-# Pytorch Implementation of "AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models" (ICLR 2021)
+# Official Pytorch Implementation of "AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models" (ICLR 2021)
 
 Please refer to [openreview](https://openreview.net/forum?id=QkRbdiiEjM) (ICLR 2021) to look into the details of our paper.
 
-![Alt text](https://github.com/datake/t-SNE/blob/master/tsne.png)
+![Alt text](https://github.com/datake/AdaGCN/blob/master/AdaGCN.png)
 
 
 ## Enviromment
