@@ -58,10 +58,10 @@ Please refer to ajksunke@pku.edu.cn in case you have any questions.
 ## Cite
 Please cite our paper if you use the model or this code in your own work:
 ```
-@inproceedings{sun2019adagcn,
-  title={Adagcn: Adaboosting graph convolutional networks into deep models},
-  author={Sun, Ke and Lin, Zhouchen and Zhu, Zhanxing},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2021}
+@inproceedings{sun2020adagcn,
+  title={AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models},
+  author={Sun, Ke and Zhu, Zhanxing and Lin, Zhouchen},
+  booktitle={International Conference on Learning Representations},
+  year={2020}
 }
 ```
